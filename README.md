@@ -10,6 +10,7 @@ I build small, reliable network automation tools that simplify complex operation
 **Tech Stack**
 
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Extreme Networks](https://img.shields.io/badge/Extreme%20Networks-8A2BE2?style=for-the-badge&logo=ExtremeNetwork&logoColor=Purple)
 ![Juniper](https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white)
 ![Aruba](https://img.shields.io/badge/Aruba-ED6F00?style=for-the-badge&logo=aruba&logoColor=white)
 ![Arista](https://img.shields.io/badge/Arista-003D6B?style=for-the-badge&logo=arista-networks&logoColor=white)
